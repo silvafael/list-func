@@ -16,7 +16,7 @@ import { FormsModule } from '@angular/forms';
   ],
 })
 
-export class Tab1Page {
+export class HomePage {
   isLoading: boolean = false
   funcionarios: any
   editingFuncionario: any = null
